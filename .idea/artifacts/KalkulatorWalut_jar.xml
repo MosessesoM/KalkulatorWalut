@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="KalkulatorWalut:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KalkulatorWalut_jar</output-path>
+    <root id="archive" name="KalkulatorWalut.jar">
+      <element id="module-output" name="KalkulatorWalut" />
+    </root>
+  </artifact>
+</component>

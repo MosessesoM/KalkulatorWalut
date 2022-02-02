@@ -1,0 +1,28 @@
+
+L
+java:S3740-"/Provide the parametrized type for this generic.(ÄøÖÆ8Â¢±°ë/
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(æáƒøÿÿÿÿ8âÃ‘­ë/
+Q
+java:S3740"/Provide the parametrized type for this generic.(æáƒøÿÿÿÿ8âÃ‘­ë/
+Q
+java:S3740)"/Provide the parametrized type for this generic.(Õ­ñûÿÿÿÿ8Â¢±°ë/
+W
+java:S1161 ":Add the "@Override" annotation above this method signature(ñ§ò¹8°Ÿ°ë/
+L
+java:S3740"/Provide the parametrized type for this generic.(äã´ó8âÃ‘­ë/
+’
+java:S1319)"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Õ­ñûÿÿÿÿ8Â¢±°ë/
+L
+java:S3740"/Provide the parametrized type for this generic.(äã´ó8âÃ‘­ë/
+Q
+java:S3740"/Provide the parametrized type for this generic.(æáƒøÿÿÿÿ8âÃ‘­ë/
+\
+java:S1161":Add the "@Override" annotation above this method signature(ÀºÑêùÿÿÿÿ8ÆÈŒ­ë/
+L
+java:S3740
+"/Provide the parametrized type for this generic.(”ò»½8²¥­°ë/
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(äã´ó8âÃ‘­ë/
+’
+java:S1319-"uThe type of the "currencies" object should be an interface such as "List" rather than the implementation "ArrayList".(ÄøÖÆ8Â¢±°ë/

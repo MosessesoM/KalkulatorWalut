@@ -1,0 +1,10 @@
+
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ıµ‡8§¤¸«ë/
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".( Ìèà8àÿ·°ë/
+P
+java:S2755"3Disable access to external entities in XML parsing.(€´öŠ8Æ’Â°ë/
+L
+java:S3740"/Provide the parametrized type for this generic.( Ìèà8àÿ·°ë/
+[
+java:S1854">Remove this useless assignment to local variable "currencies".(µßÓ8àÿ·°ë/
